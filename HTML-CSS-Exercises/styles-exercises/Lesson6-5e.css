@@ -1,0 +1,42 @@
+p {
+  font-family: arial;
+  text-align: center;
+  margin-bottom: 0;
+}
+.new {
+  color: orange;
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+.macbook-pro {
+  font-weight: bold;
+  margin-top: 0;
+  font-size: 21px;
+  margin-bottom: 0px;
+}
+
+.supercharged-pros {
+  font-weight: bold;
+  font-size: 39px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.macbook-price {
+  margin-top: 0;
+  margin-bottom: 13px;
+}
+
+.buy-button {
+  display: block;
+  margin: auto;
+  background-color:  rgb(98, 98, 255);
+  border: none;
+  color: white;
+  width: 54px;
+  height: 30px;
+  border-radius: 27px;
+  font-family: arial;
+  font-size: 15px;
+}
